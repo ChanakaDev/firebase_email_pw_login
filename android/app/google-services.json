@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203732561607",
+    "project_id": "fir-email-pw-login",
+    "storage_bucket": "fir-email-pw-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203732561607:android:0ef02174cef4a86ca818e2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_email_pw_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203732561607-6587r781r4q97u4mi2d5ajlh5pnr1ved.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUTdiIK1RiaEWH7ItRXx9OpqisjUcsZAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203732561607-6587r781r4q97u4mi2d5ajlh5pnr1ved.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
